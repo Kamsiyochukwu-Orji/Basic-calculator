@@ -73,7 +73,7 @@ cd calculator
 Add a screenshot of your calculator here.
 
 ```markdown
-![Calculator Screenshot](./screenshot.png)
+![Calculator Screenshot](./calculator-screenshot.png)
 ```
 
 ## Learning Objectives
